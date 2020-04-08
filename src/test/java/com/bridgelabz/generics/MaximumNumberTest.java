@@ -40,5 +40,4 @@ public class MaximumNumberTest {
         MaximumNumber maximumNumber = new MaximumNumber(44.3f, 22.3f, 11.3f);
         Assert.assertEquals(44.3f,maximumNumber.getLargeNumber());
     }
-
 }
