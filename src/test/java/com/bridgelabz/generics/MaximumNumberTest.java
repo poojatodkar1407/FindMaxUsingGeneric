@@ -40,4 +40,25 @@ public class MaximumNumberTest {
         MaximumNumber maximumNumber = new MaximumNumber(44.3f, 22.3f, 11.3f);
         Assert.assertEquals(44.3f,maximumNumber.getLargeNumber());
     }
+
+    @Test
+    public void givanStringMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber() {
+        MaximumNumber maximumNumber = new MaximumNumber("Ajay","Shyam","Yogesh");
+        Assert.assertEquals("Yogesh",maximumNumber.getLargeNumber());
+    }
+
+    @Test
+    public void givanStringMaxNumber_WhenAtSecondPosition_ShouldReturnFirstNumber() {
+        MaximumNumber maximumNumber = new MaximumNumber("Ram","Vishal","Chetan");
+        Assert.assertEquals("Vishal",maximumNumber.getLargeNumber());
+
+    }
+
+    @Test
+    public void givanStringMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber() {
+        MaximumNumber maximumNumber = new MaximumNumber("Tushar","Aman","Bhushan");
+        Assert.assertEquals("Tushar",maximumNumber.getLargeNumber());
+    }
+
+
 }
