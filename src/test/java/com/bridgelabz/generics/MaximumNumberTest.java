@@ -22,4 +22,23 @@ public class MaximumNumberTest {
         Assert.assertEquals(91,maximumNumber.getLargeNumber());
     }
 
+    @Test
+    public void givanFloatsMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber() {
+        MaximumNumber maximumNumber = new MaximumNumber(10.5f, 15.5f, 20.5f);
+        Assert.assertEquals(20.5f,maximumNumber.getLargeNumber());
+    }
+
+    @Test
+    public void givanFloatsMaxNumber_WhenAtSecondPosition_ShouldReturnFirstNumber() {
+        MaximumNumber maximumNumber = new MaximumNumber(10.0f, 88.5f, 12.4f);
+        Assert.assertEquals(88.5f,maximumNumber.getLargeNumber());
+
+    }
+
+    @Test
+    public void givanFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber() {
+        MaximumNumber maximumNumber = new MaximumNumber(44.3f, 22.3f, 11.3f);
+        Assert.assertEquals(44.3f,maximumNumber.getLargeNumber());
+    }
+
 }
