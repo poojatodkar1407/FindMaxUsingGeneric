@@ -14,6 +14,10 @@ public class MaximumNumber<T extends Comparable> {
         this.number3=number3;
     }
 
+    public MaximumNumber() {
+
+    }
+
     public static <T extends Comparable> T getLargeNumber( T number1,T number2,T number3,T ...option) {
         T max=number1;
         if (number2.compareTo(max)>0){
@@ -28,10 +32,16 @@ public class MaximumNumber<T extends Comparable> {
                 max=option[0];
             }
         }
+        printMaxNumber(max);
         return max;
+    }
+
+    private static <T extends Comparable> void printMaxNumber(T max) {
+        System.out.println(max );
     }
 
     public T getLargeNumber() {
         return getLargeNumber(number1,number2,number3);
     }
+
 }

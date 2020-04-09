@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.generics.MaximumNumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-09T05:49:58" hostname="DESKTOP-J547DO8" time="0.007">
+<testsuite name="com.bridgelabz.generics.MaximumNumberTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-04-09T07:09:47" hostname="DESKTOP-J547DO8" time="0.087">
   <properties/>
-  <testcase name="givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="givanIntegerMaxNumber_WhenAtSecondPosition_ShouldReturnFirstNumber" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.011"/>
+  <testcase name="givenIntegerMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.002"/>
+  <testcase name="givenMultipleIntegers_WhenIntegerIsMax_ShouldReturnMaxInteger" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.001"/>
+  <testcase name="givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.0"/>
+  <testcase name="givenFloatsMaxNumber_WhenAtSecondPosition_ShouldReturnFirstNumber" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.001"/>
+  <testcase name="givenFloatsMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.002"/>
+  <testcase name="givenFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.003"/>
+  <testcase name="givenStringMax_WhenAtThirdPosition_ShouldReturnFirstString" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.003"/>
+  <testcase name="givanIntegerMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.005"/>
+  <testcase name="givenStringMax_WhenAtSecondPosition_ShouldReturnFirstString" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.002"/>
+  <testcase name="givenStringMax_WhenAtFirstPosition_ShouldReturnFirstString" classname="com.bridgelabz.generics.MaximumNumberTest" time="0.002"/>
+  <system-out><![CDATA[50
+95
+8
+Vijay
+88.5
+20.5
+44.3
+Yogesh
+91
+Vishal
+Tushar
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
