@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937f75e6-46d9-4bc3-8703-2e4fbe467cf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/generics/MaximumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/generics/MaximumNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/generics/MaximumNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/generics/MaximumNumberTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.generics.MaximumNumberTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.generics.MaximumNumberTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.generics.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.generics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.generics.MaximumNumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.generics.MaximumNumberTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/generics/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/generics/MaximumNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/generics/MaximumNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/generics/MaximumNumberTest.java" afterDir="false" />
     </list>
@@ -63,14 +46,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GenericProblems" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.bridgelabz.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MaximumNumberTest">
+  <component name="RunManager" selected="Gradle.MaximumNumberTest.givenMultipleStrings_WhendfStringIsMax_ShouldReturnMaxString">
     <configuration name="MaximumNumberTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -111,12 +94,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumNumberTest.givenMultipleIntegers_WhenIntegersIsMax_ShouldReturnMaxInteger" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenMultipleIntegers_WhenIntegersIsMax_ShouldReturnMaxInteger&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -131,12 +114,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MaximumNumberTest.givenMultipleStrings_WhendfStringIsMax_ShouldReturnMaxString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenMultipleStrings_WhendfStringIsMax_ShouldReturnMaxString&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -173,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MaximumNumberTest.givenMultipleStrings_WhendfStringIsMax_ShouldReturnMaxString" />
         <item itemvalue="Gradle.MaximumNumberTest" />
         <item itemvalue="Gradle.MaximumNumberTest.givenMultipleFloats_WhenFloatIsMax_ShouldReturnMaxFloat" />
         <item itemvalue="Gradle.MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString" />
         <item itemvalue="Gradle.MaximumNumberTest.givenStringMax_WhenAtThirdPosition_ShouldReturnFirstString" />
-        <item itemvalue="Gradle.MaximumNumberTest.givenMultipleIntegers_WhenIntegersIsMax_ShouldReturnMaxInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -203,22 +186,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586368067724" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586413865806">
+    <state x="411" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586444523355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586413865806" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586413865806">
+    <state x="411" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1586444523355" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586416584877">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586413865806" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586413865806">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586416584877" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586416587286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586413865806" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586413865806">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586416587286" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586416587286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586413865806" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586416587286" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586416587286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586416587286" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586416587286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586416587286" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586356122870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -235,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586356122866" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586367702022">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586414852910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586367702022" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586414852910" />
     <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586412406437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

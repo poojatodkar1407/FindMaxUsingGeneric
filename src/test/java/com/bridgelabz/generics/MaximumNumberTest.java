@@ -68,5 +68,11 @@ public class MaximumNumberTest {
     public void givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString() {
         Assert.assertSame("Vijay",MaximumNumber.getLargeNumber("Baban","Prince","Dinesh","Sachin","Vijay"));
     }
+    @Test
+    public void givenMultipleFloats_WhendfFloatIsMax_ShouldReturnMaxFloat() {
+        Assert.assertEquals(22.98f,MaximumNumber.getLargeNumber(3f,3.4f,12.33f,12f,22.98f),0.0);
+    }
+
+
 
 }

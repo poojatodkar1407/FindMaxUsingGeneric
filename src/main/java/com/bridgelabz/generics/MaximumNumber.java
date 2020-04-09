@@ -19,13 +19,15 @@ public class MaximumNumber<T extends Comparable> {
     }
 
     public static <T extends Comparable> T getLargeNumber( T number1,T number2,T number3,T ...option) {
-        T max=number1;
-        if (number2.compareTo(max)>0){
+        T max=number1;//4
+        if (number2.compareTo(max)>0){//2 4
             max = number2;
         }
-        if (number3.compareTo(max)>0) {
+        //4
+        if (number3.compareTo(max)>0) {//5 4
             max = number3;
         }
+        //5
         if(option.length !=0){
             Arrays.sort(option, Collections.reverseOrder());
             if (max.compareTo(option[0])<0){
