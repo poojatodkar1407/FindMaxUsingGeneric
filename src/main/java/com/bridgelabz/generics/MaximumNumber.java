@@ -1,9 +1,12 @@
 package com.bridgelabz.generics;
 
+import java.util.Arrays;
+import java.util.Collections;
+
 public class MaximumNumber<T extends Comparable> {
-        T number1;
-        T number2;
-        T number3;
+    T number1;
+    T number2;
+    T number3;
 
     public MaximumNumber(T number1, T number2, T number3) {
         this.number1=number1;
@@ -11,12 +14,7 @@ public class MaximumNumber<T extends Comparable> {
         this.number3=number3;
     }
 
-    public T getLargeNumber() {
-        return getLargeNumber(number1,number2,number3);
-
-    }
-
-    private <T extends Comparable> T getLargeNumber(T number1, T number2, T number3) {
+    public static <T extends Comparable> T getLargeNumber( T number1,T number2,T number3,T ...option) {
         T max=number1;
         if (number2.compareTo(max)>0){
             max = number2;
@@ -24,6 +22,16 @@ public class MaximumNumber<T extends Comparable> {
         if (number3.compareTo(max)>0) {
             max = number3;
         }
-        return max;
+        if(option.length !=0){
+            Arrays.sort(option, Collections.reverseOrder());
+            if (max.compareTo(option[0])<0){
+                max=option[0];
+            }
         }
+        return max;
+    }
+
+    public T getLargeNumber() {
+        return getLargeNumber(number1,number2,number3);
+    }
 }

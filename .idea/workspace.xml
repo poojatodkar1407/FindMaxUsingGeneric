@@ -6,16 +6,22 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/generics/MaximumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/generics/MaximumNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/generics/MaximumNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/generics/MaximumNumberTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.generics.MaximumNumberTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.generics.MaximumNumberTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.generics.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.generics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.generics.MaximumNumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.generics.MaximumNumberTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/generics/MaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/generics/MaximumNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/generics/MaximumNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/generics/MaximumNumberTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,19 +64,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.bridgelabz.generics" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MaximumNumberTest.givanFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber">
-    <configuration name="MaximumNumberTest.givanFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString">
+    <configuration name="MaximumNumberTest.givanMultipleFloats_WhenFloatsIsMax_ShouldReturnMaxFloats" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givanFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givanMultipleFloats_WhenFloatsIsMax_ShouldReturnMaxFloats&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -85,12 +92,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumNumberTest.givanFloatsMaxNumber_WhenAtSecondPosition_ShouldReturnFirstNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MaximumNumberTest.givenFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givanFloatsMaxNumber_WhenAtSecondPosition_ShouldReturnFirstNumber&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -105,12 +112,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumNumberTest.givanFloatsMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MaximumNumberTest.givenMultipleFloats_WhenFloatsIsMax_ShouldReturnMaxFloats" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givanFloatsMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenMultipleFloats_WhenFloatsIsMax_ShouldReturnMaxFloats&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -125,12 +132,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumNumberTest.givanStringMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MaximumNumberTest.givenMultipleIntegers_WhenIntegersIsMax_ShouldReturnMaxInteger" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givanStringMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenMultipleIntegers_WhenIntegersIsMax_ShouldReturnMaxInteger&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -145,12 +152,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MaximumNumberTest.givanStringMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givanStringMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.generics.MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -167,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MaximumNumberTest.givanFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" />
-        <item itemvalue="Gradle.MaximumNumberTest.givanStringMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber" />
-        <item itemvalue="Gradle.MaximumNumberTest.givanStringMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" />
-        <item itemvalue="Gradle.MaximumNumberTest.givanFloatsMaxNumber_WhenAtSecondPosition_ShouldReturnFirstNumber" />
-        <item itemvalue="Gradle.MaximumNumberTest.givanFloatsMaxNumber_WhenAtThirdPosition_ShouldReturnFirstNumber" />
+        <item itemvalue="Gradle.MaximumNumberTest.givenMultipleStrings_WhenStringIsMax_ShouldReturnMaxString" />
+        <item itemvalue="Gradle.MaximumNumberTest.givenMultipleFloats_WhenFloatsIsMax_ShouldReturnMaxFloats" />
+        <item itemvalue="Gradle.MaximumNumberTest.givenMultipleIntegers_WhenIntegersIsMax_ShouldReturnMaxInteger" />
+        <item itemvalue="Gradle.MaximumNumberTest.givenFloatsMaxNumber_WhenAtFirstPosition_ShouldReturnFirstNumber" />
+        <item itemvalue="Gradle.MaximumNumberTest.givanMultipleFloats_WhenFloatsIsMax_ShouldReturnMaxFloats" />
       </list>
     </recent_temporary>
   </component>
@@ -189,22 +196,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586363668429">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586376036973">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586363668429" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586363668429">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1586376036973" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1586368067724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586363668429" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586363668429">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586368067724" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586411417112">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586363668429" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586363668429">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586411417112" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586411417112">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586363668429" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586411417112" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586411417112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586411417112" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586411417112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586411417112" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586356122870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -221,6 +236,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586356122866" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586367702022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586367702022" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1586350882844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
